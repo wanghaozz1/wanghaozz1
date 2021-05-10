@@ -2,11 +2,10 @@
 
 🔭 I’m currently working on Beijing.
 
-📚 I work using: Vue nuxt mapBox echars
+📚 I work using: Vue nuxt mapBox 
  ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue.js)
- ![uni-app](https://img.shields.io/badge/-uniapp-3b2e5a?style=plastic&logo=vue.js)
- ![Taro](https://img.shields.io/badge/-Taro-3b2e5a?style=plastic&logo=react)
- ![Webpack](https://img.shields.io/badge/-Webpack-3b2e5a?style=plastic&logo=webpack)
+ ![nuxt](https://img.shields.io/badge/-nuxt-3b2e5a?style=plastic&logo=nuxt.js)
+ ![mapBox](https://img.shields.io/badge/-mapbox-3b2e5a?style=plastic&logo=mapbox)
 
 🛠 I use daily: Git GitHub VS Code
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
